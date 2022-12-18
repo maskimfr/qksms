@@ -10,5 +10,5 @@ updates:
     schedule:
       interval: "weekly"
     target-branch: "target-sdk-update"
-    open-pull-requests-limit: 0
+    open-pull-requests-limit: 50
     
