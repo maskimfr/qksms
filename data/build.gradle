@@ -93,7 +93,7 @@ dependencies {
     implementation project(':common')
     implementation project(':domain')
 
-    withAnalyticsImplementation 'com.android.installreferrer:installreferrer:1.1'
+    withAnalyticsImplementation 'com.android.installreferrer:installreferrer:2.2'
     withAnalyticsImplementation "com.amplitude:android-sdk:3.35.1"
 }
 
