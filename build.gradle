@@ -26,7 +26,7 @@ buildscript {
     ext.realm_version = '10.13.0'
     ext.realm_adapters_version = '4.0.0'
     ext.rxandroid_version = '2.1.1'
-    ext.rxdogtag_version = '0.2.0'
+    ext.rxdogtag_version = '1.0.2'
     ext.rxbinding_version = '2.2.0'
     ext.rxjava_version = '2.2.21'
     ext.rxkotlin_version = '2.1.0'
